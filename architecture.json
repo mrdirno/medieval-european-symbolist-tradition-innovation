@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-symbolist-tradition-innovation",
+  "title": "The Calculus of Absence",
+  "tagline": "In a monastery bound by sacred order, an illuminator discovers an object that defies all language, forcing a choice between the faith of tradition and the peril of a new grammar.",
+  "target_words": 65738,
+  "actual_words": 65738,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Nature of Meaning and Interpretation",
+    "The Tension Between Sacred Order and Profane Mystery",
+    "Observation Versus Dogma",
+    "The Silent Language of Objects"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Knot of Absence",
+      "words": 5478
+    },
+    {
+      "ch": 2,
+      "title": "A Honeyed and Cruel Light",
+      "words": 5478
+    },
+    {
+      "ch": 3,
+      "title": "The Soul is a Thread",
+      "words": 5478
+    },
+    {
+      "ch": 4,
+      "title": "The Broth of Tallow-Smoke",
+      "words": 5478
+    },
+    {
+      "ch": 5,
+      "title": "The Lattice of Every Vellum Leaf",
+      "words": 5478
+    },
+    {
+      "ch": 6,
+      "title": "A Key of Bone and Silence",
+      "words": 5478
+    },
+    {
+      "ch": 7,
+      "title": "The Grammar of Things",
+      "words": 5478
+    },
+    {
+      "ch": 8,
+      "title": "The Patient, Coiling Current",
+      "words": 5478
+    },
+    {
+      "ch": 9,
+      "title": "A Shaped Vacancy",
+      "words": 5478
+    },
+    {
+      "ch": 10,
+      "title": "A Cavity in the Substance",
+      "words": 5478
+    },
+    {
+      "ch": 11,
+      "title": "The Stone Was Still a Stone",
+      "words": 5478
+    },
+    {
+      "ch": 12,
+      "title": "The Silent Path",
+      "words": 5478
+    }
+  ]
+}
